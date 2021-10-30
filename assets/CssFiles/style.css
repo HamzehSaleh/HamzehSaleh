@@ -432,16 +432,20 @@ display: none;
     width: 90%;
 }
 .skills_css{
-    width: 80%;
+    width: 73%;
 }
 .skills_js{
-    width: 80%;
+    width: 65%;
 }
 .skills_php{
-    width: 80%;
+    width: 70%;
 }
+.skills_mysql{
+    width: 85%;
+}
+
 .skills_python{
-    width: 80%;
+    width: 40%;
 }
 .skills_close .skills_list{
     height: 0;
@@ -462,6 +466,7 @@ display: none;
     justify-content: space-evenly;
     margin-bottom: var(--mb-2);
 }
+
 .qualification_button{
     font-size: var(--h3-font-size);
     font-weight: var(--font-medium);
@@ -488,12 +493,17 @@ display: none;
     font-size: var(--small-font-size);
     margin-bottom: var(--mb-1);
 }
-.qualification_calender{
+.qualification_calendar{
+  font-size: var(--smaller-font-size);
+    color: var(--text-color-light);
+}
+.qualification_rounder{
     display: inline-block;
     width: 13px;
     height: 13px;
     background-color: var(--first-color);
     border-radius: 50%;
+
 }
 .qualification_line{
     display: block;
@@ -502,6 +512,15 @@ display: none;
     background-color: var(--first-color);
     transform: translate(6px,-7px);
 }
+
+.qualification [data-content]{
+    display: none;
+}
+.qualification_active[data-content]{
+    display: block;
+}
+
+
 /*==================== SERVICES ====================*/
 
 
