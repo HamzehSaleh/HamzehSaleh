@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer || Front-End Developer
 ----------------------------------------
 
-Creative Front-End Developer with a high ability to turn UI/UX designs into real websites using modern technologies. Don't hesitate to contact me, I will be happy to know you :)
+Creative Front-End Developer with a high ability to turn UI/UX designs into real websites using modern technologies. Don't hesitate to contact me, I really like making new friends :)
 
 * 🌍  I'm based in Palestine, Nablus
 * 🖥️  See my portfolio at [MyPortfolio](http://hamzehsaleh.netlify.app/)
